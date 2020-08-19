@@ -1,0 +1,6 @@
+{
+    "githubSecret": "87e5cf003b9d86aa22b442afbf6b08f318a89836",
+    "githubClientId": "ddaacdd7ebcf58a31dfd",
+    "jwtSecret": "lamashou",
+    "mongo_URI": "mongodb+srv://akuddev:9zypOsapaS27IPbH@devconnect.kupsn.mongodb.net/devConnect?retryWrites=true&w=majority"
+}
